@@ -1,0 +1,43 @@
+name: Update AEO Blog Posts
+
+on:
+  schedule:
+    # 매일 오전 9시 (UTC 0시 = 한국시간 9시)
+    - cron: '0 0 * * *'
+  
+  # 수동 실행 가능
+  workflow_dispatch:
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 코드 체크아웃
+      uses: actions/checkout@v4
+      
+    - name: 🔧 Node.js 설정
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: 📦 의존성 설치
+      run: npm install
+      
+    - name: 🔄 RSS 포스트 업데이트
+      run: npm run update
+      
+    - name: 💾 변경사항 커밋 및 푸시
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "AEO Auto Updater"
+        git add posts.json
+        if git diff --staged --quiet; then
+          echo "변경사항이 없습니다."
+        else
+          git commit -m "🤖 자동 업데이트: 최신 AEO 블로그 포스트 $(date +'%Y-%m-%d %H:%M')"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
