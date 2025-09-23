@@ -1,0 +1,12 @@
+{
+  "name": "aeo-blog-feed",
+  "version": "1.0.0",
+  "description": "AEO 마케터 블로그 자동 업데이트",
+  "main": "update-rss.js",
+  "scripts": {
+    "update": "node update-rss.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
