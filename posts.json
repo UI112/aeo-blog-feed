@@ -1,0 +1,22 @@
+{
+  "lastUpdated": "2024-12-19T00:00:00Z",
+  "totalPosts": 2,
+  "posts": [
+    {
+      "category": "AEO 트렌드 분석",
+      "title": "구글 AI 모드와 AEO 최적화 전략",
+      "description": "구글 AI 모드 출시로 변화하는 검색 환경에서 AEO(AI Engine Optimization) 최적화 전략을 분석합니다...",
+      "link": "https://blog.naver.com/zhstjxm2001",
+      "platform": "네이버 블로그",
+      "publishedAt": "2024-12-19"
+    },
+    {
+      "category": "AEO 기술 리포트",
+      "title": "AI 검색 최적화를 위한 스키마 마크업 활용법",
+      "description": "AI 엔진이 이해하기 쉬운 구조화된 데이터 작성 방법과 실제 적용 사례를 소개합니다...",
+      "link": "https://velog.io/@airism",
+      "platform": "벨로그",
+      "publishedAt": "2024-12-19"
+    }
+  ]
+}
