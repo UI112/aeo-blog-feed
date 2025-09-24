@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2024-12-19T00:00:00Z",
+  "lastUpdated": "2025-09-24T03:48:52.165Z",
   "totalPosts": 2,
   "posts": [
     {
       "category": "AEO 트렌드 분석",
-      "title": "구글 AI 모드와 AEO 최적화 전략",
-      "description": "구글 AI 모드 출시로 변화하는 검색 환경에서 AEO(AI Engine Optimization) 최적화 전략을 분석합니다...",
-      "link": "https://blog.naver.com/zhstjxm2001",
+      "title": "\"AI가 인정한 맛집\", 당신의 가게는 준비되셨습니까?",
+      "description": "1. 어느 갈비탕 집에서 마주한 '미래' 얼마 전, 저는 한 식당에서 매우 흥미로운 장면을 목격했습니다. 테이블 위 키오스크 화면에 이런 문구가 떠 있었습니다. \"AI가 인정한 수도권 갈비탕 TOP5 빅데이터 맛집\"...",
+      "link": "https://blog.naver.com/zhstjxm2001/224017571501?fromRss=true&trackingCode=rss",
       "platform": "네이버 블로그",
-      "publishedAt": "2024-12-19"
+      "publishedAt": "2025-09-22"
     },
     {
       "category": "AEO 기술 리포트",
-      "title": "AI 검색 최적화를 위한 스키마 마크업 활용법",
-      "description": "AI 엔진이 이해하기 쉬운 구조화된 데이터 작성 방법과 실제 적용 사례를 소개합니다...",
-      "link": "https://velog.io/@airism",
+      "title": "AI는 어떻게 '맛집'을 찾는가?: 로컬 비즈니스 추천 모델 역엔지니어링",
+      "description": "핵심 요약 (Key Takeaways) AI의 '맛집 추천'은 단순 검색 순위가 아닌, 다양한 비정형 데이터 소스를 종합 분석하는 확률적 모델에 기반합니다. 핵심 분석 데이터는 정량적 지표(리뷰 수, 별점)와 정성적...",
+      "link": "https://velog.io/@airism/AEO-%EA%B8%B0%EC%88%A0-%EB%A6%AC%ED%8F%AC%ED%8A%B8-AI%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%9B%EC%A7%91%EC%9D%84-%EC%B0%BE%EB%8A%94%EA%B0%80-%EB%A1%9C%EC%BB%AC-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EC%97%AD%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81",
       "platform": "벨로그",
-      "publishedAt": "2024-12-19"
+      "publishedAt": "2025-09-22"
     }
   ]
 }
