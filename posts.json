@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-05T01:26:30.089Z",
+  "lastUpdated": "2025-10-06T01:20:25.923Z",
   "totalPosts": 2,
   "posts": [
     {
@@ -12,11 +12,11 @@
     },
     {
       "category": "AEO 기술 리포트",
-      "title": "E-E-A-T를 측정 가능한 데이터로 만드는 법",
-      "description": "TL;DR E-E-A-T 원칙을 JSON-LD 스키마로 변환해 AI가 이해할 수 있는 데이터로 만들었습니다 실제 클라이언트 블로그에 적용한 결과, 2주 만에 검색 유입 300% 증가 마케팅 용어가 아닌 측정 가능한 ...",
-      "link": "https://velog.io/@airism/E-E-A-T%EB%A5%BC-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95",
+      "title": "# 제로클릭 시대, SEO만으론 부족합니다 🚨",
+      "description": "AI 검색(AEO)로 살아남는 3가지 실전 전략 TL;DR 2024년 구글 검색의 약 60%가 클릭 없이 종료됨 SEO → AEO로 패러다임 전환 중 \"클릭 유도\"가 아닌 \"답변의 출처\"가 되어야 생존 이런 고민, ...",
+      "link": "https://velog.io/@airism/%EC%A0%9C%EB%A1%9C%ED%81%B4%EB%A6%AD-%EC%8B%9C%EB%8C%80-SEO%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EB%B6%80%EC%A1%B1%ED%95%A9%EB%8B%88%EB%8B%A4",
       "platform": "벨로그",
-      "publishedAt": "2025-10-01"
+      "publishedAt": "2025-10-05"
     }
   ]
 }
