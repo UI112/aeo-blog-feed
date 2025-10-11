@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2025-10-10T01:19:58.601Z",
+  "lastUpdated": "2025-10-11T01:16:56.521Z",
   "totalPosts": 2,
   "posts": [
     {
       "category": "AEO 트렌드 분석",
-      "title": "ChatGPT에 우리 브랜드가 안 뜨는 이유, 5년 연구 끝에 찾았습니다",
-      "description": "바쁘신 분을 위한 3줄 요약 AI는 검색 '순위'가 아닌 '신뢰 신호'로 판단합니다 구조화 데이터 + 경험 증명이 핵심입니다 무료 AEO 진단 받고 싶으시면 댓글로 신청하세요 안녕하세요, 제이드필러(AEOLAB) 원...",
-      "link": "https://blog.naver.com/zhstjxm2001/224032503363?fromRss=true&trackingCode=rss",
+      "title": "SEO 시대는 끝났다. 이제는 AI 신뢰 점수다 | AEO Analyzer 개발 일지 #1",
+      "description": "안녕하세요, AEOLAB 제이드필러입니다. 작년 한 해, 저는 수십 명의 마케터와 SEO 담당자, 개인사업자분들을 만나며 같은 이야기를 반복해서 들었습니다. \"구글은 자꾸만 기준을 바꾸고... 내 글이 검색 결과에 ...",
+      "link": "https://blog.naver.com/zhstjxm2001/224036444042?fromRss=true&trackingCode=rss",
       "platform": "네이버 블로그",
-      "publishedAt": "2025-10-06"
+      "publishedAt": "2025-10-10"
     },
     {
       "category": "AEO 기술 리포트",
-      "title": "# 제로클릭 시대, SEO만으론 부족합니다 🚨",
-      "description": "AI 검색(AEO)로 살아남는 3가지 실전 전략 TL;DR 2024년 구글 검색의 약 60%가 클릭 없이 종료됨 SEO → AEO로 패러다임 전환 중 \"클릭 유도\"가 아닌 \"답변의 출처\"가 되어야 생존 이런 고민, ...",
-      "link": "https://velog.io/@airism/%EC%A0%9C%EB%A1%9C%ED%81%B4%EB%A6%AD-%EC%8B%9C%EB%8C%80-SEO%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EB%B6%80%EC%A1%B1%ED%95%A9%EB%8B%88%EB%8B%A4",
+      "title": "# SEO는 죽었다. AI 신뢰 점수 시대가 온다 | AEO Analyzer 개발 일지",
+      "description": "TL;DR: SEO 시대의 끝, AI 검색 마케팅 시대의 시작. 우리는 AI가 당신의 콘텐츠를 얼마나 신뢰하는지 객관적으로 측정해주는 도구를 만들고 있습니다. 문제 제기: 너 지금 뭘 믿고 글 쓰고 있어? 작년 내내...",
+      "link": "https://velog.io/@airism/SEO%EB%8A%94-%EC%A3%BD%EC%97%88%EB%8B%A4.-AI-%EC%8B%A0%EB%A2%B0-%EC%A0%90%EC%88%98-%EC%8B%9C%EB%8C%80%EA%B0%80-%EC%98%A8%EB%8B%A4-AEO-Analyzer-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80",
       "platform": "벨로그",
-      "publishedAt": "2025-10-05"
+      "publishedAt": "2025-10-10"
     }
   ]
 }
